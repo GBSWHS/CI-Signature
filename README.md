@@ -11,7 +11,7 @@
 ## Colors
 |   | hex | rgb | cmyk |
 | - | --- | --- | ---- |
-| <img src="https://png-pixel.com/10x10-00aa87.png"> | `#00AA87` | `rgb(0,170,135)` | `cmyk(67,0,14,33)` |
+| <img src="https://png-pixel.com/10x10-00aa87ff.png"> | `#00AA87` | `rgb(0,170,135)` | `cmyk(67,0,14,33)` |
 | <img src="https://png-pixel.com/10x10-b4daf3ff.png"> | `#B4DAF3` | `rgb(180,218,243)` | `cmyk(27,4,0,0)` |
 | <img src="https://png-pixel.com/10x10-65c2e4ff.png"> | `#65C2E4` | `rgb(101,194,228)` | `cmyk(55,5,5,0)` |
 | <img src="https://png-pixel.com/10x10-00a2d6ff.png" width="10"> | `#00A2D6` | `rgb(0,162,214)` | `cmyk(75,18,3,0)` |
