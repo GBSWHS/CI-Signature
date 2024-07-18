@@ -20,9 +20,9 @@
 | <img src="https://png-pixel.com/10x10-ed1c24ff.png" width="10"> | `#ED1C24` | `rgb(237,28,36)` | `cmyk(0,100,100,0)` |
 
 ## Symbol Marks
-| <img src="./symbol/symbol-new-solid.png" width="100"> | <img src="./symbol/symbol-solid.png" width="100"> | <img src="./symbol/symbol-simple.png" width="100"> | <img src="./symbol/symbol-gradient.png" width="100"> | <img src="./symbol/symbol-only.png" width="100"> |
-|:---:|:---:|:---:|:---:|:---:|
-| `symbol-new-solid.png` | `symbol-solid` | `symbol-simple` | `symbol-gradient` | `symbol-logo` |
+| <img src="./symbol/symbol-new-solid.png" width="100"> | <img src="./symbol/symbol-new-only.png" width="100">  | <img src="./symbol/symbol-solid.png" width="100"> | <img src="./symbol/symbol-simple.png" width="100"> | <img src="./symbol/symbol-gradient.png" width="100"> | <img src="./symbol/symbol-only.png" width="100"> |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| `symbol-new-solid` | `symbol-new-only` | `symbol-solid` | `symbol-simple` | `symbol-gradient` | `symbol-only` |
 
 ## Characters
 | <img src="./characters/sowon.png" width="100"> | <img src="./characters/soco.png" width="100"> | <img src="./characters/a-co.png" width="100"> | <img src="./characters/i-co.png" width="100"> | <img src="./characters/enco.png" width="100"> |
