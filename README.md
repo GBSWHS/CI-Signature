@@ -29,3 +29,5 @@
 |:---:|:---:|:---:|:---:|:---:|
 | 소원이 (`sowon`) | 소코 (**so**ftware **co**ding, `soco`) | 아코 (**A**I **co**ding, `a-co`) | 구) 아코 (**I**OT **co**ding, `i-co`) | 엔코 (**en**joy **co**ding, `enco`) | 
 | 학교 캐릭터 | 소프트웨어개발과 캐릭터 | 인공지능소프트웨어과 캐릭터 | 사물인터넷과 캐릭터 | 게임개발과 캐릭터 |
+| <img src="./characters/meister-school.png" width="100"> | <img src="./characters/meister-sw.png" width="100"> | <img src="./characters/meister-game.png" width="100"> |
+| 학교 캐릭터 | 인공지능소프트웨어과 캐릭터 | 메타버스컨텐츠개발과 캐릭터 |
